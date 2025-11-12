@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Asli
 
-💡 Mobil ve web teknolojileri üzerine çalışan bir yazılım geliştiricisiyim. React Native, JavaScript 
+💡 Mobil ve web teknolojileri üzerine çalışan bir yazılım geliştiricisiyim. React Native, JavaScript,
 React, Node.js, TypeScript ve Python başta olmak üzere modern teknolojilerle projeler geliştiriyorum.  
 Amacım; sade, ölçeklenebilir ve kullanıcı dostu uygulamalar üretmek. 🚀
 
